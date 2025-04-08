@@ -208,5 +208,19 @@
         "players": 8,
         "title": " reported Diana.",
         "subtitle": "Others watched her polish her pussy like creeps." 
+    },
+	{
+        "name": "chose_to_exile_pregnant_vault_dweller",
+        "icon": "evil",
+        "players": 17,
+        "title": " exiled her.",
+        "subtitle": "Others convined Purity Police to let her stay." 
+    },
+	{
+        "name": "chose_to_spare_pregnant_vault_dweller",
+        "icon": "good",
+        "players": 83,
+        "title": " spared her.",
+        "subtitle": "Others convined Purity Police to exile her." 
     }
 ]
