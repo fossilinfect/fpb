@@ -218,7 +218,7 @@
     },
     {
         "name": "chose_to_spare_pregnant_vault_dweller",
-        "icon": "good",
+        "icon": "pregnant",
         "players": 83,
         "title": " spared her.",
         "subtitle": "Others convined Purity Police to exile her." 
@@ -242,6 +242,6 @@
         "icon": "cucumber",
         "players": 9,
         "title": " got Gina cucumbers.",
-        "subtitle": "Vault-Tec said 'agriculture'; you heard 'enhanced penetration research'." 
+        "subtitle": "Vault-Tec said 'agriculture'; you heard 'enhanced penetration project'." 
     }
 ]
