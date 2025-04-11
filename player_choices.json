@@ -8,7 +8,7 @@
     },
   	{
         "name": "hansGotGun",
-        "icon": "evil",
+        "icon": "hans",
         "players": 79,
         "title": " got Hans a gun.",
         "subtitle": "Others reported him to daddy Overseer. They’ll be the first in his firing line when he gears up." 
@@ -216,11 +216,32 @@
         "title": " exiled her.",
         "subtitle": "Others convined Purity Police to let her stay." 
     },
-	{
+    {
         "name": "chose_to_spare_pregnant_vault_dweller",
         "icon": "good",
         "players": 83,
         "title": " spared her.",
         "subtitle": "Others convined Purity Police to exile her." 
+    },
+    {
+        "name": "50_enemies_killed",
+        "icon": "slayer",
+        "players": 64,
+        "title": " slayed 50 enemies.",
+        "subtitle": "You didn’t just survive the Wasteland — you cleansed it." 
+    },
+    {
+        "name": "100_enemies_killed",
+        "icon": "slayer",
+        "players": 14,
+        "title": " slayed 100 enemies.",
+        "subtitle": "The Wasteland didn’t make you a monster — it let the fucker out." 
+    },
+    {
+        "name": "grow_cucumber",
+        "icon": "cucumber",
+        "players": 9,
+        "title": " got Gina cucumbers.",
+        "subtitle": "Vault-Tec said 'agriculture'; you heard 'enhanced penetration research'." 
     }
 ]
