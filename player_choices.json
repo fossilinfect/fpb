@@ -243,5 +243,12 @@
         "players": 9,
         "title": " got Gina cucumbers.",
         "subtitle": "Vault-Tec said 'agriculture'; you heard 'enhanced penetration project'." 
+    },
+    {
+        "name": "on_watch_list",
+        "icon": "sus high",
+        "players": 36,
+        "title": " on watch list now.",
+        "subtitle": "The Sus Level has reached a high level and the Purity Police is now onto you." 
     }
 ]
