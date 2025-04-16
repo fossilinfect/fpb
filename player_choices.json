@@ -123,35 +123,35 @@
         "icon": "mommy boy",
         "players": 17,
         "title": " are Mommy's Good Boys.",
-        "subtitle": "25% Torture Enthusiasts. 38% Wasteland Capitalists. 14% Coochie Addicts. 4% Borderline Madmans." 
+        "subtitle": "25% Torture Enthusiasts, 38% Wasteland Capitalists, 14% Coochie Addicts, 4% Borderline Madmans." 
     },
   	{
         "name": "vault_test_sadistic",
         "icon": "raider",
         "players": 25,
         "title": " are Torture Enthusiasts.",
-        "subtitle": "38% Wasteland Capitalists. 17% Mommy's Good Boys. 14% Coochie Addicts. 4% Borderline Madmans." 
+        "subtitle": "38% Wasteland Capitalists, 17% Mommy's Good Boys, 14% Coochie Addicts, 4% Borderline Madmans." 
     },
   	{
         "name": "vault_test_exploitation",
         "icon": "capitalist",
         "players": 38,
         "title": " are Wasteland Capitalists.",
-        "subtitle": "25% Torture Enthusiasts. 17% Mommy's Good Boys. 14% Coochie Addicts. 4% Borderline Madmans." 
+        "subtitle": "25% Torture Enthusiasts, 17% Mommy's Good Boys, 14% Coochie Addicts, 4% Borderline Madmans." 
     },
   	{
         "name": "vault_test_perversion",
         "icon": "horny perv",
         "players": 14,
         "title": " are Coochie Addicts.",
-        "subtitle": "38% Wasteland Capitalists. 25% Torture Enthusiasts. 17% Mommy's Good Boys. 4% Borderline Madmans." 
+        "subtitle": "38% Wasteland Capitalists, 25% Torture Enthusiasts, 17% Mommy's Good Boys, 4% Borderline Madmans." 
     },
   	{
         "name": "vault_test_chaotic",
         "icon": "madman",
         "players": 4,
         "title": " are Borderline Madmans.",
-        "subtitle": "38% Wasteland Capitalists. 25% Torture Enthusiasts. 17% Mommy's Good Boys. 14% Coochie Addicts." 
+        "subtitle": "38% Wasteland Capitalists, 25% Torture Enthusiasts, 17% Mommy's Good Boys, 14% Coochie Addicts." 
     },
   	{
         "name": "ending_reached",
