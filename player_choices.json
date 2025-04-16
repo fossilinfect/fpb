@@ -226,7 +226,7 @@
     {
         "name": "50_enemies_killed",
         "icon": "slayer",
-        "players": 64,
+        "players": 26,
         "title": " slayed 50 enemies.",
         "subtitle": "You didn’t just survive the Wasteland — you cleansed it." 
     },
