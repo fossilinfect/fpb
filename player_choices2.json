@@ -22,7 +22,7 @@
     },
   	{
         "name": "refusedToSideWithResistenceLeader",
-        "icon": "police",
+        "icon": "purity_police",
         "players": 7,
         "title": " refused to help.",
         "subtitle": "Others chose freedom... and furious masturbation." 
@@ -78,14 +78,14 @@
     },
   	{
         "name": "refused_overseer_daughter_request",
-        "icon": "police",
+        "icon": "purity_police",
         "players": 10,
         "title": " refused to help.",
         "subtitle": "Others couldn't wait to fondle reptilian balls." 
     },
   	{
         "name": "refused_jass_request",
-        "icon": "police",
+        "icon": "purity_police",
         "players": 30,
         "title": " reported Jass.",
         "subtitle": "Others went full creep mode." 
@@ -176,7 +176,7 @@
     },
 	{
         "name": "refused_food_from_gina",
-        "icon": "police",
+        "icon": "purity_police",
         "players": 12,
         "title": " reported her.",
         "subtitle": "Others took the food." 
@@ -204,7 +204,7 @@
     },
 	{
         "name": "reporting_diana_for_masturbating_in_her_room",
-        "icon": "police",
+        "icon": "purity_police",
         "players": 18,
         "title": " reported Diana.",
         "subtitle": "Others watched her polish her pussy like creeps." 
