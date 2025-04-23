@@ -232,7 +232,7 @@
     },
     {
         "name": "100_enemies_killed",
-        "icon": "slayer",
+        "icon": "100_enemies",
         "players": 7,
         "title": " slayed 100 enemies.",
         "subtitle": "The Wasteland didn’t make you a monster — it let the fucker out." 
