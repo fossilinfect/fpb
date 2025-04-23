@@ -190,7 +190,7 @@
     },
 	{
         "name": "bos_leader_defeated",
-        "icon": "bos defeated",
+        "icon": "outcast defeated 2",
         "players": 21,
         "title": " defeated BoS outcast.",
         "subtitle": "Others crumbled long before the true fight began." 
