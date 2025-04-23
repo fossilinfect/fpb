@@ -57,14 +57,14 @@
     },
   	{
         "name": "refused_joinning_gay_bos",
-        "icon": "see nothing",
+        "icon": "refused gay",
         "players": 36,
         "title": " refused to join.",
         "subtitle": "Others heard “the way of the shaft” and dropped their pants before the handshake." 
     },
   	{
         "name": "agreed_joinning_gay_bos",
-        "icon": "bos defeated",
+        "icon": "gay bos",
         "players": 64,
         "title": " are now gays.",
         "subtitle": "Others declined because they’re saving their holes for Jesus and radroaches." 
