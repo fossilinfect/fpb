@@ -1,0 +1,261 @@
+[
+    {
+        "name": "hansReported",
+        "icon": "good",
+        "players": 59,
+        "title": " reported Hans.",
+        "subtitle": "Others gave a gun to a Nazi. Vault-Tec really knows how to pick the brain-dead." 
+    },
+  	{
+        "name": "hansGotGun",
+        "icon": "hans",
+        "players": 41,
+        "title": " got Hans a gun.",
+        "subtitle": "Others reported him to daddy Overseer. They’ll be the first in his firing line when he gears up." 
+    },
+  	{
+        "name": "sidedWithResistenceLeader",
+        "icon": "tense",
+        "players": 92,
+        "title": " can't take it anymore.",
+        "subtitle": "Others submitted to the Overseer’s regime. May their genes die with them." 
+    },
+  	{
+        "name": "refusedToSideWithResistenceLeader",
+        "icon": "police",
+        "players": 7,
+        "title": " refused to help.",
+        "subtitle": "Others chose freedom... and furious masturbation." 
+    },
+  	{
+        "name": "ToddBlessingComplete",
+        "icon": "panic",
+        "players": 96,
+        "title": " rebooted in panic.",
+        "subtitle": "Others doubled down and drank the blood straight from the drainpipes." 
+    },
+  	{
+        "name": "refusedToAcceptToddBlessing",
+        "icon": "psycho",
+        "players": 4,
+        "title": " refused the blessing.",
+        "subtitle": "Others rebooted reality to sleep at night. Sleep tight, war criminals." 
+    },
+  	{
+        "name": "accepted_baron_quest",
+        "icon": "merc",
+        "players": 95,
+        "title": " agreed to kill outcast.",
+        "subtitle": "Others passed on the job." 
+    },
+  	{
+        "name": "refused_baron_quest",
+        "icon": "good",
+        "players": 5,
+        "title": " refused to kill outcast.",
+        "subtitle": "Others took the job: <i>“Brotherhood doesn't do buttstuff, freak—we do bullets.“</i>" 
+    },
+  	{
+        "name": "refused_joinning_gay_bos",
+        "icon": "see nothing",
+        "players": 36,
+        "title": " refused to join.",
+        "subtitle": "Others heard “the way of the shaft” and dropped their pants before the handshake." 
+    },
+  	{
+        "name": "agreed_joinning_gay_bos",
+        "icon": "bos defeated",
+        "players": 64,
+        "title": " are now gays.",
+        "subtitle": "Others declined because they’re saving their holes for Jesus and radroaches." 
+    },
+  	{
+        "name": "accepted_overseer_daughter_request",
+        "icon": "deathclaw",
+        "players": 89,
+        "title": " agreed to help.",
+        "subtitle": "Others tattled immediately, crying, ”Daddy, your daughter's asking for mutant nut gravy again!”" 
+    },
+  	{
+        "name": "refused_overseer_daughter_request",
+        "icon": "police",
+        "players": 10,
+        "title": " refused to help.",
+        "subtitle": "Others couldn't wait to fondle reptilian balls." 
+    },
+  	{
+        "name": "refused_jass_request",
+        "icon": "police",
+        "players": 30,
+        "title": " reported Jass.",
+        "subtitle": "Others went full creep mode." 
+    },
+  	{
+        "name": "took_jass_request",
+        "icon": "diana panties",
+        "players": 70,
+        "title": " agreed to help.",
+        "subtitle": "Others ratted Jass out." 
+    },
+  	{
+        "name": "grace_sold_to_supermutants",
+        "icon": "super mutant",
+        "players": 64,
+        "title": " sold Grace.",
+        "subtitle": "Others returned Grace to her father." 
+    },
+  	{
+        "name": "wastelanders_in_need_gave_caps",
+        "icon": "helping",
+        "players": 84,
+        "title": " gave caps.",
+        "subtitle": "13% gave caps, 42% gave extra, 15% traded for mags, 11% asked for tits, 9% robbed them, and 8% refused." 
+    },
+  	{
+        "name": "wastelanders_in_need_took_took_caps",
+        "icon": "evil",
+        "players": 16,
+        "title": " took caps.",
+        "subtitle": "13% gave caps, 42% gave extra, 15% traded for mags, 11% asked for tits, 9% robbed them, and 8% refused." 
+    },
+  	{
+        "name": "vault_test_pragmatic",
+        "icon": "mommy boy",
+        "players": 17,
+        "title": " are Mommy's Good Boys.",
+        "subtitle": "25% Torture Enthusiasts, 38% Wasteland Capitalists, 14% Unhinged Degens, 4% Borderline Madmans." 
+    },
+  	{
+        "name": "vault_test_sadistic",
+        "icon": "raider",
+        "players": 25,
+        "title": " are Torture Enthusiasts.",
+        "subtitle": "38% Wasteland Capitalists, 17% Mommy's Good Boys, 14% Unhinged Degens, 4% Borderline Madmans." 
+    },
+  	{
+        "name": "vault_test_exploitation",
+        "icon": "capitalist",
+        "players": 38,
+        "title": " are Wasteland Capitalists.",
+        "subtitle": "25% Torture Enthusiasts, 17% Mommy's Good Boys, 14% Unhinged Degens, 4% Borderline Madmans." 
+    },
+  	{
+        "name": "vault_test_perversion",
+        "icon": "horny perv",
+        "players": 14,
+        "title": " are Unhinged Degens.",
+        "subtitle": "38% Wasteland Capitalists, 25% Torture Enthusiasts, 17% Mommy's Good Boys, 4% Borderline Madmans." 
+    },
+  	{
+        "name": "vault_test_chaotic",
+        "icon": "madman",
+        "players": 4,
+        "title": " are Borderline Madmans.",
+        "subtitle": "38% Wasteland Capitalists, 25% Torture Enthusiasts, 17% Mommy's Good Boys, 14% Unhinged Degens." 
+    },
+  	{
+        "name": "ending_reached",
+        "icon": "ending",
+        "players": 7,
+        "title": " reached Fapocalypsis.",
+        "subtitle": "The vault became a breeding ground. Literally." 
+    },
+	{
+        "name": "grace_returned_home",
+        "icon": "grace home",
+        "players": 36,
+        "title": " returned Grace home.",
+        "subtitle": "Others sold her to super mutants." 
+    }, 
+	{
+        "name": "took_food_from_gina",
+        "icon": "gina oopsie",
+        "players": 88,
+        "title": " accepted food.",
+        "subtitle": "Others reported her." 
+    },
+	{
+        "name": "refused_food_from_gina",
+        "icon": "police",
+        "players": 12,
+        "title": " reported her.",
+        "subtitle": "Others took the food." 
+    },
+	{
+        "name": "tina_defeated",
+        "icon": "tina defeated",
+        "players": 55,
+        "title": " defeated Tina.",
+        "subtitle": "Others bled out screaming." 
+    },
+	{
+        "name": "bos_leader_defeated",
+        "icon": "bos defeated",
+        "players": 21,
+        "title": " defeated BoS outcast.",
+        "subtitle": "Others crumbled long before the true fight began." 
+    },
+	{
+        "name": "watching_diana_masturbating_in_her_room",
+        "icon": "peep",
+        "players": 82,
+        "title": " watched Diana.",
+        "subtitle": "Others snitched on her to Purity Police." 
+    },
+	{
+        "name": "reporting_diana_for_masturbating_in_her_room",
+        "icon": "police",
+        "players": 18,
+        "title": " reported Diana.",
+        "subtitle": "Others watched her polish her pussy like creeps." 
+    },
+	{
+        "name": "chose_to_exile_pregnant_vault_dweller",
+        "icon": "evil",
+        "players": 40,
+        "title": " exiled her.",
+        "subtitle": "Others convined Purity Police to let her stay." 
+    },
+    {
+        "name": "chose_to_spare_pregnant_vault_dweller",
+        "icon": "pregnant",
+        "players": 60,
+        "title": " spared her.",
+        "subtitle": "Others convined Purity Police to exile her." 
+    },
+    {
+        "name": "50_enemies_killed",
+        "icon": "slayer",
+        "players": 26,
+        "title": " slayed 50 enemies.",
+        "subtitle": "You didn’t just survive the Wasteland — you cleansed it." 
+    },
+    {
+        "name": "100_enemies_killed",
+        "icon": "slayer",
+        "players": 7,
+        "title": " slayed 100 enemies.",
+        "subtitle": "The Wasteland didn’t make you a monster — it let the fucker out." 
+    },
+    {
+        "name": "grow_cucumber",
+        "icon": "cucumber",
+        "players": 28,
+        "title": " got Gina cucumbers.",
+        "subtitle": "Vault-Tec said 'agriculture'; you heard 'enhanced penetration project'." 
+    },
+    {
+        "name": "on_watch_list",
+        "icon": "sus high",
+        "players": 30,
+        "title": " are on watch list now.",
+        "subtitle": "The Sus Level has passed a critical threshold and the Purity Police is now onto you." 
+    },
+    {
+        "name": "boner_repression_trials_passed",
+        "icon": "trials",
+        "players": 30,
+        "title": " passed the trials.",
+        "subtitle": "Others didn't make it." 
+    }
+]
