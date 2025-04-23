@@ -107,16 +107,16 @@
   	{
         "name": "wastelanders_in_need_gave_caps",
         "icon": "helping",
-        "players": 93,
+        "players": 84,
         "title": " gave caps.",
-        "subtitle": "Others took all the caps the family had." 
+        "subtitle": "13% gave caps, 42% gave extra, 15% traded for mags, 11% asked for tits, 9% robbed them, and 8% refused." 
     },
   	{
         "name": "wastelanders_in_need_took_took_caps",
         "icon": "evil",
-        "players": 7,
+        "players": 16,
         "title": " took caps.",
-        "subtitle": "Others helped them by sparing a few caps." 
+        "subtitle": "13% gave caps, 42% gave extra, 15% traded for mags, 11% asked for tits, 9% robbed them, and 8% refused." 
     },
   	{
         "name": "vault_test_pragmatic",
