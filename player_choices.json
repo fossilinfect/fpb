@@ -250,5 +250,12 @@
         "players": 30,
         "title": " are on watch list now.",
         "subtitle": "The Sus Level has passed a critical threshold and the Purity Police is now onto you." 
+    },
+    {
+        "name": "boner_repression_trials_passed",
+        "icon": "trials",
+        "players": 30,
+        "title": " passed the trials.",
+        "subtitle": "Others didn't make it." 
     }
 ]
