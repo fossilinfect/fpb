@@ -15,7 +15,7 @@
     },
   	{
         "name": "sidedWithResistenceLeader",
-        "icon": "cant_take_it2",
+        "icon": "tense",
         "players": 92,
         "title": " can't take it anymore.",
         "subtitle": "Others submitted to the Overseer’s regime. May their genes die with them." 
@@ -92,7 +92,7 @@
     },
   	{
         "name": "took_jass_request",
-        "icon": "diana panties",
+        "icon": "panty thief",
         "players": 70,
         "title": " agreed to help.",
         "subtitle": "Others ratted Jass out." 
@@ -190,7 +190,7 @@
     },
 	{
         "name": "bos_leader_defeated",
-        "icon": "outcast defeated 2",
+        "icon": "outcast defeated",
         "players": 21,
         "title": " defeated BoS outcast.",
         "subtitle": "Others crumbled long before the true fight began." 
