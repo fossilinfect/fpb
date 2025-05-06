@@ -226,14 +226,14 @@
     {
         "name": "50_enemies_killed",
         "icon": "slayer",
-        "players": 26,
+        "players": 28,
         "title": " slayed 50 enemies.",
         "subtitle": "You didn’t just survive the Wasteland — you cleansed it." 
     },
     {
         "name": "100_enemies_killed",
         "icon": "100_enemies",
-        "players": 7,
+        "players": 12,
         "title": " slayed 100 enemies.",
         "subtitle": "The Wasteland didn’t make you a monster — it let the fucker out." 
     },
