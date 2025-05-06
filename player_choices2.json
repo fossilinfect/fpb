@@ -43,7 +43,7 @@
     },
   	{
         "name": "accepted_baron_quest",
-        "icon": "merc",
+        "icon": "merc3",
         "players": 95,
         "title": " agreed to kill outcast.",
         "subtitle": "Others passed on the job." 
