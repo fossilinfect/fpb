@@ -285,5 +285,12 @@
         "players": 5,
         "title": " maxed out Diana's desire.",
         "subtitle": "Warning: Diana’s body just declared independence. Good luck out there, soldier." 
+    },
+    {
+        "name": "100_days",
+        "icon": "100 days",
+        "players": 9,
+        "title": " reached day 100!",
+        "subtitle": "Congratulations! You must really love recycled air." 
     }
 ]
