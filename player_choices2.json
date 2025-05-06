@@ -122,7 +122,7 @@
         "name": "vault_test_pragmatic",
         "icon": "mommy boy",
         "players": 17,
-        "title": " are Mommy's Good Boys.",
+        "title": " are Good Mommy Boys.",
         "subtitle": "25% Bullies, 38% Wasteland Capitalists, 14% Unhinged Degens, 4% Borderline Madmans." 
     },
   	{
@@ -130,28 +130,28 @@
         "icon": "bad bullies",
         "players": 25,
         "title": " are Bullies.",
-        "subtitle": "38% Wasteland Capitalists, 17% Mommy's Good Boys, 14% Unhinged Degens, 4% Borderline Madmans." 
+        "subtitle": "38% Wasteland Capitalists, 17% Good Mommy Boys, 14% Unhinged Degens, 4% Borderline Madmans." 
     },
   	{
         "name": "vault_test_exploitation",
         "icon": "capitalist",
         "players": 38,
         "title": " are Wasteland Capitalists.",
-        "subtitle": "25% Bullies, 17% Mommy's Good Boys, 14% Unhinged Degens, 4% Borderline Madmans." 
+        "subtitle": "25% Bullies, 17% Good Mommy Boys, 14% Unhinged Degens, 4% Borderline Madmans." 
     },
   	{
         "name": "vault_test_perversion",
         "icon": "unhinged_degens",
         "players": 14,
         "title": " are Unhinged Degens.",
-        "subtitle": "38% Wasteland Capitalists, 25% Bullies, 17% Mommy's Good Boys, 4% Borderline Madmans." 
+        "subtitle": "38% Wasteland Capitalists, 25% Bullies, 17% Good Mommy Boys, 4% Borderline Madmans." 
     },
   	{
         "name": "vault_test_chaotic",
         "icon": "madman",
         "players": 4,
         "title": " are Borderline Madmans.",
-        "subtitle": "38% Wasteland Capitalists, 25% Bullies, 17% Mommy's Good Boys, 14% Unhinged Degens." 
+        "subtitle": "38% Wasteland Capitalists, 25% Bullies, 17% Good Mommy Boys, 14% Unhinged Degens." 
     },
   	{
         "name": "ending_reached",
