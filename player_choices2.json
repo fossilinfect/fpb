@@ -269,7 +269,7 @@
         "name": "high_player_tension",
         "icon": "cant_take_it2",
         "players": 41,
-        "title": " can't stop leaking.",
+        "title": " reached critical tension.",
         "subtitle": "Every vault resident is starting to look like a dating option." 
     }
 ]
