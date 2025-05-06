@@ -292,5 +292,12 @@
         "players": 9,
         "title": " reached day 100!",
         "subtitle": "Congratulations! You must really love recycled air." 
+    },
+    {
+        "name": "20_heads",
+        "icon": "20 heads",
+        "players": 21,
+        "title": " brought the heads.",
+        "subtitle": "Somewhere, a Super Mutant’s mom is crying." 
     }
 ]
