@@ -271,5 +271,12 @@
         "players": 41,
         "title": " reached critical tension.",
         "subtitle": "Every vault resident is starting to look like a dating option." 
+    },
+    {
+        "name": "pp_dildo_busted",
+        "icon": "police dildo",
+        "players": 8,
+        "title": " busted the officer.",
+        "subtitle": "Hypocrisy detected: Officer Gloria caught red-handed with a love baton!" 
     }
 ]
