@@ -278,5 +278,12 @@
         "players": 8,
         "title": " busted the officer.",
         "subtitle": "Well well well... look who’s stretching the limits of the purity code. Hypocrisy detected!" 
+    },
+    {
+        "name": "diana_tension_maxed",
+        "icon": "diana max tension",
+        "players": 5,
+        "title": " maxed Diana's desire.",
+        "subtitle": "Warning: Diana’s body just declared independence. Good luck out there, soldier." 
     }
 ]
