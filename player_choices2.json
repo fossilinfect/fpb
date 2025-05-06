@@ -190,7 +190,7 @@
     },
 	{
         "name": "bos_leader_defeated",
-        "icon": "outcast defeated",
+        "icon": "bos defeated",
         "players": 21,
         "title": " defeated BoS outcast.",
         "subtitle": "Others crumbled long before the true fight began." 
@@ -256,6 +256,13 @@
         "icon": "trials",
         "players": 30,
         "title": " passed the trials.",
-        "subtitle": "Others have cummed all over the officer" 
+        "subtitle": "Others have cummed all over the officer." 
+    },
+    {
+        "name": "sexbot_repaired",
+        "icon": "sexbot",
+        "players": 14,
+        "title": " repaired the sexbot.",
+        "subtitle": "Time to see what it can do." 
     }
 ]
