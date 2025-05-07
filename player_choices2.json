@@ -299,5 +299,12 @@
         "players": 21,
         "title": " brought the heads.",
         "subtitle": "Somewhere, a Super Mutant’s mom is crying." 
+    },
+    {
+        "name": "down_with_the_devil",
+        "icon": "domina",
+        "players": 0,
+        "title": "Down with the Devil",
+        "subtitle": "Agree to bring down Mistress Domina." 
     }
 ]
