@@ -307,5 +307,13 @@
         "title": "Down with the Devil",
         "subtitle": "Agree to bring down Mistress Domina.",
 	"isAchievement": true
+    },
+    {
+        "name": "tacttical_retreat",
+        "icon": "retreat",
+        "players": 0,
+        "title": "Tactical Retreat",
+        "subtitle": "Return to the vault on low health.",
+	"isAchievement": true
     }
 ]
