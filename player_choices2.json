@@ -211,14 +211,14 @@
     },
 	{
         "name": "chose_to_exile_pregnant_vault_dweller",
-        "icon": "evil",
+        "icon": "pregnant 1",
         "players": 40,
         "title": " exiled her.",
         "subtitle": "Others convined Purity Police to let her stay." 
     },
     {
         "name": "chose_to_spare_pregnant_vault_dweller",
-        "icon": "pregnant",
+        "icon": "pregnant 1",
         "players": 60,
         "title": " spared her.",
         "subtitle": "Others convined Purity Police to exile her." 
