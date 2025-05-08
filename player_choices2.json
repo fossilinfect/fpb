@@ -331,5 +331,13 @@
         "title": "Productivity Leakage",
         "subtitle": "Wank 3 times.",
 	"isAchievement": true
+    },
+    {
+        "name": "warlord_achievement",
+        "icon": "warlord",
+        "players": 0,
+        "title": "Wasteland Warlord",
+        "subtitle": "Slay 100 enemies.",
+	"isAchievement": true
     }
 ]
