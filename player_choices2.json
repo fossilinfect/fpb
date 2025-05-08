@@ -339,5 +339,13 @@
         "title": "Wasteland Warlord",
         "subtitle": "Slay 100 enemies.",
 	"isAchievement": true
+    },
+    {
+        "name": "deplomacy_denied_achievement",
+        "icon": "slayer",
+        "players": 0,
+        "title": "Diplomacy Denied",
+        "subtitle": "Slay 50 enemies.",
+	"isAchievement": true
     }
 ]
