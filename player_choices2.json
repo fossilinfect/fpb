@@ -41,14 +41,21 @@
         "title": " refused the blessing.",
         "subtitle": "Others rebooted reality to sleep at night. Sleep tight, war criminals." 
     },
-  	{
+    {
         "name": "accepted_baron_quest",
+        "icon": "merc",
+        "players": 95,
+        "title": " agreed to kill outcast.",
+        "subtitle": "Others passed on the job." 
+    },
+	{
+        "name": "accepted_baron_quest2",
         "icon": "merc3",
         "players": 95,
         "title": " agreed to kill outcast.",
         "subtitle": "Others passed on the job." 
     },
-  	{
+    {
         "name": "refused_baron_quest",
         "icon": "good",
         "players": 5,
