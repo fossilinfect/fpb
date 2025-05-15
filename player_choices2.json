@@ -354,5 +354,13 @@
         "title": "Diplomacy Denied",
         "subtitle": "Slay 50 enemies.",
 	"isAchievement": true
+    },
+    {
+        "name": "purge_cleaning",
+        "icon": "finished everyone off",
+        "players": 0,
+        "title": "Cold-blooded Exterminator",
+        "subtitle": "Finish the survivors.",
+	"isAchievement": true
     }
 ]
