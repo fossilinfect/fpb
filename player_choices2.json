@@ -362,5 +362,13 @@
         "title": "Cold-blooded Exterminator",
         "subtitle": "Finish the survivors.",
 	"isAchievement": true
+    },
+    {
+        "name": "15_gifts",
+        "icon": "15 gifts",
+        "players": 0,
+        "title": "Courier of Cheer",
+        "subtitle": "Gift 15 items.",
+	"isAchievement": true
     }
 ]
