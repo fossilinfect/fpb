@@ -418,5 +418,13 @@
         "title": "Vault-Tec's Worker of the Month",
         "subtitle": "Complete 10 quests.",
 	"isAchievement": true
+    },
+    {
+        "name": "high_life",
+        "icon": "high_life",
+        "players": 0,
+        "title": "Welcome to the Club",
+        "subtitle": "Join the Enclave.",
+	"isAchievement": true
     }
 ]
