@@ -370,5 +370,13 @@
         "title": "Courier of Cheer",
         "subtitle": "Gift 15 items.",
 	"isAchievement": true
+    },
+    {
+        "name": "pp_bukkake",
+        "icon": "pp bukkake",
+        "players": 0,
+        "title": "Not So Pure Anymore",
+        "subtitle": "Have Purity Police join the orgy.",
+	"isAchievement": true
     }
 ]
