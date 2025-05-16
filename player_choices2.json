@@ -402,5 +402,13 @@
         "title": "Certified Lover",
         "subtitle": "Have sex 5 times.",
 	"isAchievement": true
+    },
+    {
+        "name": "pussy_open_for_business",
+        "icon": "pussy_open_for_business",
+        "players": 0,
+        "title": "Pussy Open For Business",
+        "subtitle": "Make Diana reach 50 desire.",
+	"isAchievement": true
     }
 ]
