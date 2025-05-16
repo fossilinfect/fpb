@@ -386,5 +386,21 @@
         "title": "Big Scaly Bitches",
         "subtitle": "Have a deathclaw orgy in the vault.",
 	"isAchievement": true
+    },
+    {
+        "name": "1st_time",
+        "icon": "1st_time",
+        "players": 0,
+        "title": "The First Time",
+        "subtitle": "Have sex.",
+	"isAchievement": true
+    },
+    {
+        "name": "5th_time",
+        "icon": "5th_time",
+        "players": 0,
+        "title": "Certified Lover",
+        "subtitle": "Have sex 5 times.",
+	"isAchievement": true
     }
 ]
