@@ -172,7 +172,7 @@
         "icon": "grace home",
         "players": 36,
         "title": " returned Grace home.",
-        "subtitle": "Others sold her to super mutants." 
+        "subtitle": "Others sold her to super mutants..." 
     }, 
 	{
         "name": "took_food_from_gina",
