@@ -180,6 +180,13 @@
         "players": 88,
         "title": " accepted food.",
         "subtitle": "Others reported her." 
+    }, 
+	{
+        "name": "took_food_from_gina2",
+        "icon": "gina_oopsie",
+        "players": 88,
+        "title": " accepted food.",
+        "subtitle": "Others reported her." 
     },
 	{
         "name": "refused_food_from_gina",
