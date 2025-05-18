@@ -426,5 +426,13 @@
         "title": "Welcome to the Club",
         "subtitle": "Join the Enclave.",
 	"isAchievement": true
+    },
+    {
+        "name": "ghoul_escape",
+        "icon": "ghoul escape",
+        "players": 15,
+        "title": " freed the ghouls",
+        "subtitle": "Turns out decades of unpaid labor don't build loyalty. Who knew?",
+	"isAchievement": true
     }
 ]
