@@ -359,8 +359,8 @@
         "name": "purge_cleaning",
         "icon": "finished everyone off",
         "players": 0,
-        "title": "Cold-blooded Exterminator",
-        "subtitle": "Finish the survivors.",
+        "title": "Cold-blooded Wipe",
+        "subtitle": "Finish off the survivors.",
 	"isAchievement": true
     },
     {
