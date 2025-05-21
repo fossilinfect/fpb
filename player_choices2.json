@@ -440,5 +440,12 @@
         "players": 15,
         "title": " freed the ghouls",
         "subtitle": "Turns out decades of unpaid labor don't build loyalty. Who knew?"
+    },
+    {
+        "name": "wife_returned",
+        "icon": "farmer wife return",
+        "players": 13,
+        "title": " brought the wife back",
+        "subtitle": "The farmer muttered ‘Guess I’ll just fuck the brahmin then.’"
     }
 ]
