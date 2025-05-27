@@ -447,5 +447,13 @@
         "players": 13,
         "title": " brought the wife back",
         "subtitle": "The farmer muttered ‘Guess I’ll just fuck the brahmin then.’"
+    },
+    {
+        "name": "farm_fuck",
+        "icon": "farm fuck",
+        "players": 13,
+        "title": "A Proper Plow",
+        "subtitle": "Fuck the framer's daughter.",
+	"isAchievement": true
     }
 ]
