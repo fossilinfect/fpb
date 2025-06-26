@@ -455,5 +455,13 @@
         "title": "A Proper Plow",
         "subtitle": "Fuck the framer's daughter.",
 	"isAchievement": true
+    },
+    {
+        "name": "diana_had_child",
+        "icon": "diana and baby",
+        "players": 0,
+        "title": "Diana had a child",
+        "subtitle": "Become a father.",
+	"isAchievement": true
     }
 ]
