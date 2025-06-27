@@ -1,0 +1,72 @@
+[
+    {
+        "subscribestar_name": "WolfDaddy0",
+        "tier": "Top",
+        "display_name": "WolfDaddy0",
+        "faction": "",
+        "tooltip_text": "The original Overseer.",
+        "name_size": 0,
+        "faction_icon_path": "GUI/backer credits/faction icons/bos logo",
+        "vaultboy_icon_path": "GUI/backer credits/deathclaw"
+    },
+    {
+        "subscribestar_name": "Jaysonpdf",
+        "tier": "Elite",
+        "display_name": "Jaysonpdf",
+        "faction": "",
+        "tooltip_text": "Canonically banned from 12 vaults",
+        "name_size": 0,
+        "faction_icon_path": "GUI/backer credits/faction icons/bos logo",
+        "vaultboy_icon_path": "GUI/backer credits/party"
+    }, 
+    {
+        "subscribestar_name": "User#7b767ed3",
+        "tier": "Elite",
+        "display_name": "User#7b767ed3",
+        "faction": "",
+        "tooltip_text": "100% feral. Not ghoul. Just feral.",
+        "name_size": 25,
+        "faction_icon_path": "GUI/backer credits/faction icons/bos logo",
+        "vaultboy_icon_path": "GUI/backer credits/tired"
+    },
+    {
+        "subscribestar_name": "User#5ca02df4",
+        "tier": "Elite",
+        "display_name": "User#5ca02df4",
+        "faction": "",
+        "tooltip_text": "Built different (and by different I mean unstable)",
+        "name_size": 25,
+        "faction_icon_path": "GUI/backer credits/faction icons/bos logo",
+        "vaultboy_icon_path": "GUI/backer credits/brotherhood"
+    },
+    {
+        "subscribestar_name": "滴滴滴滴答滴",
+        "tier": "Top",
+        "display_name": "滴滴滴滴答滴",
+        "faction": "",
+        "tooltip_text": "Yangtze Submarine Gloryhole Technician",
+        "name_size": 0,
+        "faction_icon_path": "GUI/backer credits/faction icons/bos logo",
+        "vaultboy_icon_path": "GUI/backer credits/glory hole"
+    },
+    {
+        "subscribestar_name": "Aldilenn",
+        "tier": "Regular",
+        "display_name": "Aldilenn",
+        "faction": "",
+        "tooltip_text": "Used stealth boy to watch your mom shower",
+        "name_size": 0,
+        "faction_icon_path": "GUI/backer credits/faction icons/bos logo",
+        "vaultboy_icon_path": "GUI/choice icon/bad bullies"
+    },
+    {
+        "subscribestar_name": "schondinger",
+        "tier": "Regular",
+        "display_name": "schondinger",
+        "faction": "",
+        "tooltip_text": "Spanked a synth so hard it rebooted",
+        "name_size": 0,
+        "faction_icon_path": "GUI/backer credits/faction icons/bos logo",
+        "vaultboy_icon_path": "GUI/choice icon/mommy boy"
+    }
+]
