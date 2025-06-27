@@ -463,5 +463,13 @@
         "title": "Diana had a child",
         "subtitle": "Become a father.",
 	"isAchievement": true
+    },
+    {
+        "name": "impregnate_someone",
+        "icon": "impregnation",
+        "players": 0,
+        "title": "Oops. Critical Hit: Uterus",
+        "subtitle": "Impregnate someone.",
+	"isAchievement": true
     }
 ]
