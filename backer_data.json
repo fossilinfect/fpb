@@ -53,11 +53,11 @@
         "subscribestar_name": "Aldilenn",
         "tier": "Regular",
         "display_name": "Aldilenn",
-        "faction": "",
+        "faction": "Vault-Tec employee",
         "tooltip_text": "Used stealth boy to watch your mom shower",
         "name_size": 0,
-        "faction_icon_path": "GUI/backer credits/faction icons/bos logo",
-        "vaultboy_icon_path": "GUI/choice icon/bad bullies"
+        "faction_icon_path": "GUI/backer credits/faction icons/Vault Tec",
+        "vaultboy_icon_path": "GUI/choice icon/vault boy"
     },
     {
         "subscribestar_name": "schondinger",
