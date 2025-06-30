@@ -22,12 +22,12 @@
     {
         "subscribestar_name": "User#7b767ed3",
         "tier": "Elite",
-        "display_name": "User#7b767ed3",
-        "faction": "",
+        "display_name": "Azure Knight",
+        "faction": "Brotherhood member",
         "tooltip_text": "100% feral. Not ghoul. Just feral.",
-        "name_size": 25,
+        "name_size": 0,
         "faction_icon_path": "GUI/backer credits/faction icons/bos logo",
-        "vaultboy_icon_path": "GUI/backer credits/tired"
+        "vaultboy_icon_path": "GUI/backer credits/brotherhood"
     },
     {
         "subscribestar_name": "User#5ca02df4",
@@ -37,7 +37,7 @@
         "tooltip_text": "Built different (and by different I mean unstable)",
         "name_size": 25,
         "faction_icon_path": "GUI/backer credits/faction icons/bos logo",
-        "vaultboy_icon_path": "GUI/backer credits/brotherhood"
+        "vaultboy_icon_path": "GUI/backer credits/tired"
     },
     {
         "subscribestar_name": "滴滴滴滴答滴",
