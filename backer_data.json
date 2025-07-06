@@ -68,5 +68,15 @@
         "name_size": 0,
         "faction_icon_path": "GUI/backer credits/faction icons/bos logo",
         "vaultboy_icon_path": "GUI/choice icon/mommy boy"
+    },
+    {
+        "subscribestar_name": "joko47",
+        "tier": "Regular",
+        "display_name": "joko47",
+        "faction": "",
+        "tooltip_text": "Plays with mini nukes like sex toys",
+        "name_size": 0,
+        "faction_icon_path": "GUI/backer credits/faction icons/bos logo",
+        "vaultboy_icon_path": "GUI/backer credits/tired"
     }
 ]
