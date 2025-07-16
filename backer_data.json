@@ -88,5 +88,15 @@
         "name_size": 0,
         "faction_icon_path": "GUI/backer credits/faction icons/bos logo",
         "vaultboy_icon_path": "GUI/backer credits/naked"
+    },
+    {
+        "subscribestar_name": "CptObvious1337",
+        "tier": "Elite",
+        "display_name": "CptObvious1337",
+        "faction": "",
+        "tooltip_text": "Banned from Super Duper Mart",
+        "name_size": 0,
+        "faction_icon_path": "GUI/backer credits/faction icons/bos logo",
+        "vaultboy_icon_path": "GUI/choice icon/peep"
     }
 ]
