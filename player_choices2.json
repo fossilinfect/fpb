@@ -479,5 +479,13 @@
         "title": "Vault-Tec Beta Tester",
         "subtitle": "Get cucked.",
 	"isAchievement": true
+    },
+    {
+        "name": "get_married",
+        "icon": "wedding",
+        "players": 0,
+        "title": "Til Death Do Us Part",
+        "subtitle": "Get married.",
+	"isAchievement": true
     }
 ]
