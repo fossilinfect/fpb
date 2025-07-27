@@ -487,5 +487,13 @@
         "title": "Til Death Do Us Part",
         "subtitle": "Get married.",
 	"isAchievement": true
+    },
+    {
+        "name": "bodycount_3",
+        "icon": "horny perv",
+        "players": 0,
+        "title": "Certified Lover",
+        "subtitle": "Have sex with three different partners.",
+	"isAchievement": true
     }
 ]
