@@ -495,5 +495,13 @@
         "title": "Certified Lover",
         "subtitle": "Have sex with three different partners.",
 	"isAchievement": true
+    },
+    {
+        "name": "have_3_kids",
+        "icon": "3 kids",
+        "players": 14,
+        "title": " have fathered 3 kids.",
+        "subtitle": "Making the Wasteland a Little More Crowded.",
+	"isAchievement": false
     }
 ]
