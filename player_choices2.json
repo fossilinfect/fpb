@@ -503,5 +503,13 @@
         "title": " have fathered 3 kids.",
         "subtitle": "Making the Wasteland a Little More Crowded.",
 	"isAchievement": false
+    },
+    {
+        "name": "tentacles",
+        "icon": "tentacles",
+        "players": 14,
+        "title": "The Root Went Deep",
+        "subtitle": "Have a plant violate a resident.",
+	"isAchievement": true
     }
 ]
