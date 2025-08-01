@@ -511,5 +511,13 @@
         "title": "The Root Went Deep",
         "subtitle": "Have a plant violate a resident.",
 	"isAchievement": true
+    },
+    {
+        "name": "30_days_abstinence",
+        "icon": "30_days",
+        "players": 14,
+        "title": "",
+        "subtitle": "",
+	"isAchievement": true
     }
 ]
