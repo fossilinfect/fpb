@@ -519,5 +519,13 @@
         "title": "",
         "subtitle": "",
 	"isAchievement": true
+    },
+    {
+        "name": "domina_defeated",
+        "icon": "domina_defeated",
+        "players": 9,
+        "title": " defeated Domina.",
+        "subtitle": "Congratulations! You win. You’ve freed the wasteland. Try not to become the next monster, okay?",
+	"isAchievement": true
     }
 ]
