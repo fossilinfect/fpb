@@ -102,7 +102,7 @@
     {
         "subscribestar_name": "Naxtron105",
         "tier": "Elite",
-        "display_name": "Naxtron105<br>",
+        "display_name": "<br>Naxtron105",
         "faction": "",
         "tooltip_text": "",
         "name_size": 0,
@@ -130,6 +130,7 @@
         "vaultboy_icon_path": "GUI/backer credits/tired"
     } 
 ]
+
 
 
 
