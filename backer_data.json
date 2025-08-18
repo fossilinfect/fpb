@@ -98,5 +98,16 @@
         "name_size": 0,
         "faction_icon_path": "GUI/backer credits/faction icons/Vault Tec",
         "vaultboy_icon_path": "GUI/choice icon/mommy boy"
+    },
+    {
+        "subscribestar_name": "Badgerious",
+        "tier": "Elite",
+        "display_name": "Badgerious",
+        "faction": "NCR",
+        "tooltip_text": "",
+        "name_size": 0,
+        "faction_icon_path": "GUI/backer credits/faction icons/NCR",
+        "vaultboy_icon_path": "GUI/backer credits/deathclaw"
     }
 ]
+
