@@ -121,15 +121,16 @@
     },
     {
         "subscribestar_name": "Jonsmoke",
-        "tier": "Elite",
+        "tier": "Regular",
         "display_name": "Jonsmoke",
         "faction": "",
         "tooltip_text": "Addicted to Jet and feet pics",
-        "name_size": 25,
+        "name_size": 0,
         "faction_icon_path": "GUI/backer credits/faction icons/bos logo",
         "vaultboy_icon_path": "GUI/backer credits/tired"
     } 
 ]
+
 
 
 
