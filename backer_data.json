@@ -30,16 +30,6 @@
         "vaultboy_icon_path": "GUI/backer credits/brotherhood"
     },
     {
-        "subscribestar_name": "User#5ca02df4",
-        "tier": "Elite",
-        "display_name": "User#5ca02df4",
-        "faction": "",
-        "tooltip_text": "Addicted to Jet and feet pics",
-        "name_size": 25,
-        "faction_icon_path": "GUI/backer credits/faction icons/bos logo",
-        "vaultboy_icon_path": "GUI/backer credits/tired"
-    },
-    {
         "subscribestar_name": "滴滴滴滴答滴",
         "tier": "Top",
         "display_name": "滴滴滴滴答滴",
@@ -112,7 +102,7 @@
     {
         "subscribestar_name": "Naxtron105",
         "tier": "Elite",
-        "display_name": "Naxtron105",
+        "display_name": "Naxtron105<br>",
         "faction": "",
         "tooltip_text": "",
         "name_size": 0,
@@ -131,25 +121,16 @@
     },
     {
         "subscribestar_name": "Jonsmoke",
-        "tier": "Regular",
+        "tier": "Elite",
         "display_name": "Jonsmoke",
         "faction": "",
-        "tooltip_text": "",
-        "name_size": 0,
+        "tooltip_text": "Addicted to Jet and feet pics",
+        "name_size": 25,
         "faction_icon_path": "GUI/backer credits/faction icons/bos logo",
-        "vaultboy_icon_path": "GUI/choice icon/mommy boy"
-    },
-    {
-        "subscribestar_name": "Name4",
-        "tier": "Elite",
-        "display_name": "Name4",
-        "faction": "",
-        "tooltip_text": "",
-        "name_size": 0,
-        "faction_icon_path": "GUI/backer credits/faction icons/bos logo",
-        "vaultboy_icon_path": "GUI/choice icon/mommy boy"
-    }
+        "vaultboy_icon_path": "GUI/backer credits/tired"
+    } 
 ]
+
 
 
 
