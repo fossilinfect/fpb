@@ -128,8 +128,29 @@
         "name_size": 0,
         "faction_icon_path": "GUI/backer credits/faction icons/bos logo",
         "vaultboy_icon_path": "GUI/backer credits/tired"
-    } 
+    },
+    {
+        "subscribestar_name": "monkey",
+        "tier": "Elite",
+        "display_name": "monkey",
+        "faction": "",
+        "tooltip_text": "",
+        "name_size": 0,
+        "faction_icon_path": "GUI/backer credits/faction icons/bos logo",
+        "vaultboy_icon_path": "GUI/choice icon/mommy boy"
+    },
+    {
+        "subscribestar_name": "broseph",
+        "tier": "Elite",
+        "display_name": "broseph",
+        "faction": "",
+        "tooltip_text": "",
+        "name_size": 0,
+        "faction_icon_path": "GUI/backer credits/faction icons/bos logo",
+        "vaultboy_icon_path": "GUI/choice icon/mommy boy"
+    }
 ]
+
 
 
 
