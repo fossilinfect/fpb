@@ -86,7 +86,7 @@
         "faction": "Tunnel Snakes",
         "tooltip_text": "Just the tip, or I can shove it all the way in.",
         "name_size": 0,
-        "faction_icon_path": "GUI/backer credits/faction icons/Vault Tec",
+        "faction_icon_path": "GUI/backer credits/faction icons/tunnel snakes",
         "vaultboy_icon_path": "GUI/choice icon/mommy boy"
     },
     {
@@ -150,6 +150,7 @@
         "vaultboy_icon_path": "GUI/choice icon/mommy boy"
     }
 ]
+
 
 
 
