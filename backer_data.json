@@ -10,6 +10,16 @@
         "vaultboy_icon_path": "GUI/backer credits/deathclaw"
     },
     {
+        "subscribestar_name": "Warlock Tin",
+        "tier": "Top",
+        "display_name": "Warlock Tin",
+        "faction": "NCR member",
+        "tooltip_text": "",
+        "name_size": 0,
+        "faction_icon_path": "GUI/backer credits/faction icons/NCR",
+        "vaultboy_icon_path": "GUI/backer credits/party"
+    },
+    {
         "subscribestar_name": "Jaysonpdf",
         "tier": "Elite",
         "display_name": "Jaysonpdf",
@@ -150,6 +160,7 @@
         "vaultboy_icon_path": "GUI/choice icon/mommy boy"
     }
 ]
+
 
 
 
