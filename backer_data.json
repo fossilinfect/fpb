@@ -14,7 +14,7 @@
         "tier": "Top",
         "display_name": "Warlock Tin",
         "faction": "NCR member",
-        "tooltip_text": "",
+        "tooltip_text": "Freedom’s great, but have you tried bureaucracy?",
         "name_size": 0,
         "faction_icon_path": "GUI/backer credits/faction icons/NCR",
         "vaultboy_icon_path": "GUI/backer credits/party"
@@ -160,6 +160,7 @@
         "vaultboy_icon_path": "GUI/choice icon/mommy boy"
     }
 ]
+
 
 
 
